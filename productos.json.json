@@ -1,0 +1,29 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "nombre": "Aprendiendo Redux",
+      "precio": 30
+    },
+    {
+      "id": 2,
+      "nombre": "React Redux",
+      "precio": 20
+    },
+    {
+      "nombre": "Aprendiendo React",
+      "precio": "50",
+      "id": 3
+    },
+    {
+      "nombre": "22",
+      "precio": "1231",
+      "id": 4
+    },
+    {
+      "nombre": "si yo fuera ladron",
+      "precio": "2000",
+      "id": 5
+    }
+  ]
+}
